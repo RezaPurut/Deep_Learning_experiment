@@ -14,7 +14,7 @@ Three celebrities were selected (*TWICE members*) and all of their images were d
 I refer this link https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751 to guide me do the fine-tuning
 
 ![Alt text](https://github.com/RezaPurut/Deep_Learning_experiment/blob/master/fine_tune_vggface/decision_map.png)
-                                                    *(Marcelino, 2018)*
+<p align="center">*(Marcelino, 2018)*</p>
 
 Quadrant 3 and 4 were selected in this experiment.
 
@@ -26,6 +26,9 @@ Got inspiration from this guy project btw -> https://github.com/curaai00/my-twic
 
 ## References
 https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751
+
 https://github.com/skylarhuang/ML_Intro_project/blob/master/Fine_Tuning_Vgg_Face.ipynb
+
 https://github.com/serengil/tensorflow-101/blob/master/python/vgg-face.ipynb
+
 https://github.com/llSourcell/how_to_make_an_image_classifier/blob/master/demo.ipynb
