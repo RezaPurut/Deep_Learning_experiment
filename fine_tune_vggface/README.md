@@ -3,4 +3,6 @@ This is my experiment on VGG-Face weight to to see whether VGG-Face can classify
 
 The structure of the folder is same as other CNN classification where we have train, validation and test folders.
 
-![Alt text](https://github.com/RezaPurut/Deep_Learning_experiment/blob/master/fine_tune_vggface/Screenshot%20from%202019-01-25%2011-59-59.png)
+![Alt text](https://github.com/RezaPurut/Deep_Learning_experiment/blob/master/fine_tune_vggface/structure.png)
+
+Three celebrities were selected and all of their images were downloaded from google. Their images also have been cropped using OpenCV before splitted into train, validation and test.
