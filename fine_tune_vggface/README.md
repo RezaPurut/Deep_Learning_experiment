@@ -14,7 +14,7 @@ Three celebrities were selected (*TWICE members*) and all of their images were d
 I refer this link https://towardsdatascience.com/transfer-learning-from-pre-trained-models-f2393f124751 to guide me do the fine-tuning
 
 ![Alt text](https://github.com/RezaPurut/Deep_Learning_experiment/blob/master/fine_tune_vggface/decision_map.png)
-<p align="center">*(Marcelino, 2018)*</p>
+<p align="center"><i>(Marcelino, 2018)</i></p>
 
 Quadrant 3 and 4 were selected in this experiment.
 
