@@ -18,9 +18,6 @@ I refer this link https://towardsdatascience.com/transfer-learning-from-pre-trai
 
 Quadrant 3 and 4 were selected in this experiment.
 
-## Comments
-It is quite confusing actually because I'm not even sure whether my dataset is similar or different from pre-trained model. If I say similar, the dataset (the images) is not in pre-trained model but if I say different, my dataset is face images. That is why I select both Quadrant 3 and 4. It will be great if the author of that website/blog give more detailed explanation.
-
 # What I Learned
 - Before I proceed with 10 images per class in training folder, I use 5 images per class for training and 3 images per class for validation but the classification is quite sucks. Then, I decided to add 5 more images into training folder and 3 more images in validation folder
 - I noticed that increasing the number of epochs could lead to a much better accuracy, validation accuracy, lower loss and validation loss but it is important to watch out for overfitting and underfitting
