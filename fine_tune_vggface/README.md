@@ -16,7 +16,8 @@ I refer this link https://towardsdatascience.com/transfer-learning-from-pre-trai
 ![Alt text](https://github.com/RezaPurut/Deep_Learning_experiment/blob/master/fine_tune_vggface/decision_map.png)
 <p align="center"><i>(Marcelino, 2018)</i></p>
 
-Quadrant 3 and 4 were selected in this experiment.
+Quadrant 3 and 4 were selected in this experiment. Why?
+Because we have small dataset
 
 # What I Learned
 - Before I proceed with 10 images per class in training folder, I use 5 images per class for training and 3 images per class for validation but the classification is quite sucks. Then, I decided to add 5 more images into training folder and 3 more images in validation folder
